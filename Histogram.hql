@@ -4,7 +4,7 @@ create table Color (
      red int,
      green int,
      blue int
-)
+) 
 row format delimited fields terminated by ',' stored as textfile;
 
 load data local inpath '${hiveconf:P}' overwrite into table Color;
