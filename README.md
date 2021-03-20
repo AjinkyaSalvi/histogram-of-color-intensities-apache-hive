@@ -15,3 +15,4 @@ Histogram
 		the color green with intensity 123 is repeated 108540 times.
 
 03.	Note: I have included sample input and output .txt files.
+ 
